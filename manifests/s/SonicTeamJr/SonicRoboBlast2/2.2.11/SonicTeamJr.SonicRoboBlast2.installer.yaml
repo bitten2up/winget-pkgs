@@ -2,7 +2,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.1.0.schema.json
 
 PackageIdentifier: SonicTeamJr.SonicRoboBlast2
-PackageVersion: 2.2.10
+PackageVersion: 2.2.11
 MinimumOSVersion: 10.0.0.0
 InstallerType: inno
 Scope: user
@@ -13,7 +13,7 @@ InstallModes:
 UpgradeBehavior: install
 Installers:
 - Architecture: x86
-  InstallerUrl: https://github.com/STJr/SRB2/releases/download/SRB2_release_2.2.10/SRB2-v2210-Installer.exe
-  InstallerSha256: 5200493F0E2DF01D106C170A6DFCA2B1B0AC9DBDD2461689CB8DD3085AA40CD7
+  InstallerUrl: https://github.com/STJr/SRB2/releases/download/SRB2_release_2.2.11/SRB2-v2211-Installer.exe
+  InstallerSha256: manifests/s/SonicTeamJr/SonicRoboBlast2/2.2.10
 ManifestType: installer
 ManifestVersion: 1.1.0

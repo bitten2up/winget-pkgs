@@ -12,7 +12,7 @@ InstallModes:
 - silentWithProgress
 UpgradeBehavior: install
 Installers:
-- Architecture: x64
+- Architecture: x86
   InstallerUrl: https://github.com/STJr/SRB2/releases/download/SRB2_release_2.2.9/SRB2-v229-Installer.exe
   InstallerSha256: 08C1C62854C7B104F02059CA493497527B8260284512E74E812B8144CBA31177
 ManifestType: installer
